@@ -1,6 +1,4 @@
 <html>
-<head>dfsfs
-</head>
 <body>
 <header>
 <h1>git</h1>
@@ -9,6 +7,7 @@
 <ul>
 	<li> git이란? </li>
 	<li> 버전 </li>
+	<li> 응 </li>
 </ul>
 </body>
 
